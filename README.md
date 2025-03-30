@@ -1,3 +1,3 @@
 
-requirements: pip install streamlit
+requirements: pip install streamlit <br>
 run command : streamlit run filename.py
